@@ -18,6 +18,14 @@ François Chollet.
 \newblock keras.
 \newblock \url{https://github.com/fchollet/keras}, 2015.
 
+\bibitem{giusti2016machine}
+Alessandro Giusti, J{\'e}r{\^o}me Guzzi, Dan~C Cire{\c{s}}an, Fang-Lin He,
+  Juan~P Rodr{\'\i}guez, Flavio Fontana, Matthias Faessler, Christian Forster,
+  J{\"u}rgen Schmidhuber, Gianni Di~Caro, et~al.
+\newblock A machine learning approach to visual perception of forest trails for
+  mobile robots.
+\newblock {\em IEEE Robotics and Automation Letters}, 1(2):661--667, 2016.
+
 \bibitem{NIPS2012_4824}
 Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E Hinton.
 \newblock Imagenet classification with deep convolutional neural networks.

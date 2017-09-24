@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.4.12)  24 SEP 2017 20:29
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2017.4.12)  24 SEP 2017 20:38
 entering extended mode
 **C:/Users/dyl/Desktop/itnec/IEEEtran/bare_conf.tex
 (C:/Users/dyl/Desktop/itnec/IEEEtran/bare_conf.tex
@@ -404,17 +404,11 @@ Package pdftex.def Info: ./images/cnn.png used on input line 519.
 Underfull \vbox (badness 1009) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 524--526
-\OT1/ptm/m/n/10 d-if-fer-en-t prob-lem-s in-clud-ing , Si-mul-ta-ne-ous Lo-cal-
-iza-tion
+Underfull \hbox (badness 2310) in paragraph at lines 524--526
+\OT1/ptm/m/n/10 el-s have sub-se-quent-ly been shown to be ef-fec-tive for
  []
 
-
-Underfull \hbox (badness 1728) in paragraph at lines 524--526
-\OT1/ptm/m/n/10 and Mapping(SLAM)[[]][],Decision Mak-ing and Au-to-mat-ic
- []
-
-<./images/pid.png, id=61, 512.66531pt x 137.01187pt>
+<./images/pid.png, id=62, 512.66531pt x 137.01187pt>
 File: ./images/pid.png Graphic file (type png)
  <use ./images/pid.png>
 Package pdftex.def Info: ./images/pid.png used on input line 539.
@@ -432,7 +426,7 @@ Overfull \hbox (1.01016pt too wide) in paragraph at lines 550--550
 [] 
  []
 
-<./images/learning_scheme.png, id=94, 806.26219pt x 392.21532pt>
+<./images/learning_scheme.png, id=96, 806.26219pt x 392.21532pt>
 File: ./images/learning_scheme.png Graphic file (type png)
 
 <use ./images/learning_scheme.png>
@@ -443,21 +437,21 @@ Overfull \hbox (0.94499pt too wide) in paragraph at lines 556--557
 [][]
  []
 
-<./images/error_plane.png, id=96, 274.02374pt x 232.61906pt>
+<./images/error_plane.png, id=98, 274.02374pt x 232.61906pt>
 File: ./images/error_plane.png Graphic file (type png)
 
 <use ./images/error_plane.png>
 Package pdftex.def Info: ./images/error_plane.png used on input line 566.
 (pdftex.def)             Requested size: 108.405pt x 92.02727pt.
 
-<./images/u_plane.png, id=97, 275.52937pt x 233.37187pt>
+<./images/u_plane.png, id=99, 275.52937pt x 233.37187pt>
 File: ./images/u_plane.png Graphic file (type png)
 
 <use ./images/u_plane.png>
 Package pdftex.def Info: ./images/u_plane.png used on input line 567.
 (pdftex.def)             Requested size: 108.405pt x 91.81943pt.
 
-<./images/cnn_pid.png, id=98, 871.00406pt x 316.18124pt>
+<./images/cnn_pid.png, id=100, 871.00406pt x 316.18124pt>
 File: ./images/cnn_pid.png Graphic file (type png)
 
 <use ./images/cnn_pid.png>
@@ -506,7 +500,7 @@ put line 618.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./images/train_test.png, id=118, 666.23906pt x 456.95718pt>
+<./images/train_test.png, id=120, 666.23906pt x 456.95718pt>
 File: ./images/train_test.png Graphic file (type png)
 
 <use ./images/train_test.png>
@@ -517,7 +511,7 @@ Overfull \hbox (0.94499pt too wide) in paragraph at lines 632--633
  [][] 
  []
 
-<./images/performance.png, id=119, 609.77812pt x 508.14844pt>
+<./images/performance.png, id=121, 609.77812pt x 508.14844pt>
 File: ./images/performance.png Graphic file (type png)
 
 <use ./images/performance.png>
@@ -528,7 +522,7 @@ Overfull \hbox (0.94499pt too wide) in paragraph at lines 638--639
  [][] 
  []
 
-<./images/control.png, id=122, 622.57594pt x 128.73094pt>
+<./images/control.png, id=124, 622.57594pt x 128.73094pt>
 File: ./images/control.png Graphic file (type png)
 
 <use ./images/control.png>
@@ -539,7 +533,7 @@ Overfull \hbox (8.17244pt too wide) in paragraph at lines 650--651
  [][] 
  []
 
-<./images/step.png, id=123, 517.935pt x 310.15875pt>
+<./images/step.png, id=125, 517.935pt x 310.15875pt>
 File: ./images/step.png Graphic file (type png)
  <use ./images/step.png>
 Package pdftex.def Info: ./images/step.png used on input line 656.
@@ -610,13 +604,13 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 718.
 Package rerunfilecheck Info: File `bare_conf.out' has not changed.
 (rerunfilecheck)             Checksum: 23DE53F9F2FFD916CD727D166B975F79;577.
 Package rerunfilecheck Info: File `bare_conf.brf' has not changed.
-(rerunfilecheck)             Checksum: C7C7B46095224B968FAE1FE3C7728FCA;787.
+(rerunfilecheck)             Checksum: 430D0FDCC708111A964C7ABF62968D71;837.
  ) 
 Here is how much of TeX's memory you used:
- 6782 strings out of 495354
- 101237 string characters out of 3183859
- 198963 words of memory out of 3000000
- 9834 multiletter control sequences out of 15000+200000
+ 6791 strings out of 495354
+ 101374 string characters out of 3183859
+ 200003 words of memory out of 3000000
+ 9842 multiletter control sequences out of 15000+200000
  37977 words of font info for 74 fonts, out of 3000000 for 9000
  17 hyphenation exceptions out of 8191
  32i,15n,28p,974b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -629,9 +623,9 @@ msfonts/cm/cmr10.pfb><D:/CTEX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D
 ype1/public/amsfonts/cm/cmsy7.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmb8a.
 pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><D:/CTEX/MiKTeX/fonts/typ
 e1/urw/times/utmr8a.pfb><D:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bare_conf.pdf (4 pages, 474659 bytes).
+Output written on bare_conf.pdf (4 pages, 476335 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
+ 220 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
  131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
