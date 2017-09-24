@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Convolutional Neural Network}{}% 2
+\BOOKMARK [1][-]{section.3}{Devise Controller}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Traditional PID controller}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Transfer to Image}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Devise CNN controller}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Training}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Evaluation}{}% 8
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 9
+\BOOKMARK [1][-]{section*.2}{References}{}% 10
